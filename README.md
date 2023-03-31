@@ -2,5 +2,5 @@
 Exercices with Arrays:
 · pop, push, shift, unshift, indexOf, splice, slice...
 And Loops:
-· For, for...in, for...of
+· For, for...of, for...in
 · While, do...while
